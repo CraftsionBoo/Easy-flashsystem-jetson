@@ -91,7 +91,7 @@
 ### 📦 步骤1：克隆仓库
 1. 克隆项目仓库：
     ```bash
-    git clone https://github.com/CraftsionBoo/Easy-flashsystem-jetson.git
+    git clone https://github.com/LCongCrBO/Easy-flashsystem-jetson.git
     cd Easy-flashsystem-jetson
     ```
 
