@@ -92,7 +92,7 @@
 ### 📦 Step1: Clone Repository
 1. Clone the project repository:
     ```bash
-    git clone https://github.com/CraftsionBoo/Easy-flashsystem-jetson.git
+    git clone https://github.com/LCongCrBO/Easy-flashsystem-jetson.git
     cd Easy-flashsystem-jetson
     ```
 
